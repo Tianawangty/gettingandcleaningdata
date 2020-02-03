@@ -12,4 +12,4 @@ This is the final project for Getting and Cleaning data.
 The script will work as long as the script is placed under the folder of "UCI HAR Dataset", which is the zip file downloaded from https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip.
 
 ## The Code Book
-Please refer to UCI Machine Learning Repository (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) for details about the variables in the dataset.
+The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone. Please refer to UCI Machine Learning Repository (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) for details about the variables in the dataset.
